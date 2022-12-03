@@ -1,11 +1,11 @@
 ## 前言
-Newsletter 是一类去平台化的信息源，能让自己重新掌握消费的主动权，通过筛选后的优质信息，创造出可深入思考的环境。
+Newsletter 是一类去平台化的信息源，能让自己重新掌握消费的主动权，通过筛选的优质信息，可创造出能使自己思考的环境。
 
-Newsletter 作为我重要的输入源，已使用多年，不知不觉积累了一些高质的信息源，主题粗分为 技术 与 科技人文，信息源与其订阅方式梳理如下。
+Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累了一些自认为的高质信息源，这些信息粗分为 技术主题 与 科技人文主题。
 
-如果你有推荐的 newsletter，欢迎补充到 [issue](https://github.com/Tomotoes/newsletter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 中，同时也可以关注 我的 newsletter - [思考的价值](https://simon.zhubai.love/)。
+信息源与其订阅方式梳理如下，希望能对你有所帮助。
 
-希望能对你有所帮助。
+如果你也有推荐的 newsletter，欢迎补充到 [issue](https://github.com/Tomotoes/newsletter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 中，同时也可以看看 我的 newsletter - [思考的价值](https://simon.zhubai.love/) 是不是你想要的菜~
 
 ## 使用方式
 
