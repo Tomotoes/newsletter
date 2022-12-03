@@ -219,70 +219,131 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 
 - [headllines/github-daily](https://github.com/headllines/github-daily)
+
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Watch 仓库，将 github 的通知设置为[邮件方式](https://github.com/settings/notifications)。
 
 ### 科技人文向
 
 - [湾区日报](https://wanqu.substack.com/) - 已停止更新
+
 - [Product Hunt Daily](https://www.producthunt.com/newsletter)
+
 - [Steve说每周通讯](https://steve.hedwig.pub/)
+
 - [Founder Weekly](http://www.founderweekly.com/)
+
 - [DEX 周刊](https://dex.zhubai.love/)
+
 - [Daniel Miessler](https://danielmiessler.com/popular/)
+
 - [The sunday digest](https://every.to/everything)
+
 - [Quora Digest](https://www.quora.com/settings/notifications)
+
 - [语雀](https://www.yuque.com/settings/notifications)
+
 - [Platform Thinking+](https://pt.plus/)
+
 - [tinyprojects](https://tinyprojects.dev/)
+
 - [好工具周刊](https://bestxtools.zhubai.love/)
+
 - [GeekPlux Lab](https://geekplux.zhubai.love/)
+
 - [Design Scenes Weekly](https://designscenes.zhubai.love/)
+
 - [产品鸭](https://produck.zhubai.love/)
+
 - [DecoHack周刊](https://decohack.zhubai.love/)
+
 - [独立开发变现周刊](https://www.ezindie.com/)
+
 - [龙爪槐守望者](https://www.ftium4.com/)
+
 - [地心引力](https://walnut.hedwig.pub/)
+
 - [在诗外](https://lauren.hedwig.pub/)
+
 - [The Quibbler](https://thequibbler.zhubai.love/)
+
 - [Manjusaka 碎碎念](https://manjusaka.zhubai.love/)
+
 - [MonoGoto](https://monogoto.ryouissei.com/)
+
 - [可乐周报](https://coke.do/)
+
 - [啰里啰唆](https://luoliluosuo.zhubai.love/)
+
 - [Chasing Rabbbits](https://chasingrabbbits.substack.com/)
+
 - [prototypr](https://prototypr.io/)
+
 - [Dense Discovery](https://www.densediscovery.com/)
+
 - [Workspace](https://www.workspaces.xyz/)
+
 - [Chinese Characteristics](https://lillianli.substack.com/)
+
 - [Jiayuan Thoughts](https://jiayuan.zhubai.love/)
+
 - [生活奇旅](https://weichen.zhubai.love/)
+
 - [Dine News](https://news.dinehq.net/)
+
 - [察说花园](https://chasays.zhubai.love/)
+
 - [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1)
+
 - [光明王](https://lordoflight.substack.com/)
+
 - [草稿拾遗](https://zhiy.cc/messy)
+
 - [一人杂志](https://matsuri.zhubai.love/)
+
 - [太隐](https://wangyurui.com/)
+
 - [唯理通讯](https://www.veritaschina.org/newsletter/)
+
 - [维舟](https://weizhou.substack.com/)
+
 - [Juicing Today](https://juicing.today/)
+
 - [逆流Upstream](https://zhiy.cc/upstream)
+
 - [BLUE·周刊](https://huazi.zhubai.love/)
+
 - [Sustainable Curiosity](https://zhiy.cc/mccc)
+
 - [播客相对论](https://podcast.zhubai.love/)
+
 - [创投止观舍](https://zhiy.cc/zhiguan)
+
 - [漫无目的](https://manwumudi.zhubai.love/)
+
 - [知更鸟文档](https://robin.hedwig.pub/)
+
 - [本夜朽舎](https://honyakusha.zhubai.love/)
+
 - [显济的闲言碎语](https://xianjijeffery.zhubai.love/)
+
 - [Shyrism.News](https://shyrz.zhubai.love/)
+
 - [zerotomarketing](https://www.zerotomarketing.com/)
+
 - [No-Code Shots](https://nocodeshots.com/)
+
 - [Unreadit - tech](https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1)
+
 - [Unreadit Indie Makers](https://app.mailbrew.com/unreadit/indie-makers-PUMlRRvVaXb3)
+
 - [阮一峰](https://www.ruanyifeng.com/feed.html)
+
 - [陈皓](https://coolshell.cn/feed)
+
 - [老胡周刊](https://weekly.howie6879.cn/rss/rss.xml)
+
 - [潮流周刊](https://weekly.tw93.fun/rss.xml)
+
 - [BMPI.dev](https://www.bmpi.dev/) - 暂时无法订阅
 
 ## 导航站 & 个人分享
