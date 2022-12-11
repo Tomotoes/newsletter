@@ -371,3 +371,6 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 - [竹白专栏检索](https://zb.liey.cn/)
+
+- [竹白百科](https://www.zhubai.wiki/)
+- 
