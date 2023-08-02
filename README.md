@@ -5,7 +5,7 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 信息源与其订阅方式梳理如下，希望能对你有所帮助。
 
-如果你也有推荐的 newsletter，欢迎补充到 [issue](https://github.com/Tomotoes/newsletter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 中，同时也可以看看 我的 newsletter - [思考的价值](https://simon.zhubai.love/) 是不是你想要的菜~
+如果你也有推荐的 newsletter，欢迎补充到 [issue](https://github.com/Tomotoes/newsletter/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 中，同时也可以看看 <del>我的 newsletter - [思考的价值](https://simon.zhubai.love/)</del> 是不是你想要的菜~（暂无精力更新）
 
 ## 使用方式
 
@@ -20,6 +20,10 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 - 以下包含的 RSS 链接，可使用 [FollowIt](https://follow.it/enter-website) 转换为 邮件更新。
 
 ## Newsletters
+
+### AI 相关
+
+- [a16z](https://info.a16z.com/newsletters.html)
 
 ### 技术向
 
