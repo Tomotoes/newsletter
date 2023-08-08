@@ -228,6 +228,8 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 ### 科技人文向
 
+- [YC's Newsletter](https://www.ycombinator.com/launches?tag=Artificial+Intelligence)
+
 - [湾区日报](https://wanqu.substack.com/) - 已停止更新
 
 - [Product Hunt Daily](https://www.producthunt.com/newsletter)
