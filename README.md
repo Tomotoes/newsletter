@@ -221,10 +221,11 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 - [DEV Community Digest](https://dev.to/) - 将 dev 社区的动态更新设置为[邮件通知](https://dev.to/settings/notifications)。
 
-
 - [headllines/github-daily](https://github.com/headllines/github-daily)
 
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Watch 仓库，将 github 的通知设置为[邮件方式](https://github.com/settings/notifications)。
+
+- [Latest and Greatest](https://div.beehiiv.com/)
 
 ### 科技人文向
 
