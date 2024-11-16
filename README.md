@@ -24,6 +24,7 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 ### AI 相关
 
 - [a16z](https://info.a16z.com/newsletters.html)
+- [Latent Space](https://www.latent.space/)
 
 ### 技术向
 
