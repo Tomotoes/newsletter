@@ -359,6 +359,8 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 ## 导航站 & 个人分享
 
+- [Tony Dinh's Newsletter](https://news.tonydinh.com/)
+
 - [hedwig](https://hedwig.pub/)
 
 - [NEWSLETTEREST](https://newsletterest.com/discover)
