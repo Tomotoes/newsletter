@@ -29,6 +29,8 @@ Newsletter 作为我重要的输入源，已使用多年，不知不觉已积累
 
 ### 技术向
 
+- [BestBlogs](https://www.bestblogs.dev/feeds?featured=y)
+
 - [JavaScript Weekly](https://javascriptweekly.com/)
 
 - [Golang Weekly](https://golangweekly.com/)
